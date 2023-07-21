@@ -8,7 +8,7 @@ using UnityEngine;
 public class OutProcessRunner : MonoBehaviour
 {
     private Process process;
-    public string pyfile = @"C:\Users\Haruya\Documents\UnityProject\OutProcessTest\printout.py";
+    public string pyfile = @".\printout.py";
     // Start is called before the first frame update
     void Start()
     {
